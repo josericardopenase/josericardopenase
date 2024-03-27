@@ -6,7 +6,7 @@ Born in Spain and diving deep into the tech world as a computer science student.
 
 ### What's cooking in my tech kitchen?
 
-- **Languages & Tools:** I love coding in Python, Java, C and Typescriot/Javascript.
+- **Languages & Tools:** I love coding in Python, Java, C and Typescript/Javascript.
 - **I'm Learning:** Encription and decription algorithms in low level sense. 
 - **The Geeky Side:** Physics isn't just for the labs, and I'm all about figuring out why things are the way they are. Also, big fan of asking "Why?" about, well, everything.
 
