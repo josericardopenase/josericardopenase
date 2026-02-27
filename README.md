@@ -10,11 +10,6 @@ Born in Spain and diving deep into the tech world as a computer scientist. I'm a
 - **I'm Learning:** Encription and decription algorithms in low level sense. 
 - **The Geeky Side:** Physics isn't just for the labs, and I'm all about figuring out why things are the way they are. Also, big fan of asking "Why?" about, well, everything.
 
-### Beyond the screen
-
-- **Thinking Hat:** Philosophy's my go-to for deep dives. What's life? Why do we do what we do? And yeah, I do have thoughts on how society ticks.
-- **Finding My Path:** Life's a journey, and I'm mapping mine out. Expect detours and deep thoughts.
-
 Wanna see more? Just hop over to my repos!
 
 ---
