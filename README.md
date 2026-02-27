@@ -2,7 +2,7 @@
 
 ## A bit about me...
 
-Born in Spain and diving deep into the tech world as a computer science student. I'm also kicking off my physics degree online because why not? Life's too short not to explore the mysteries of the universe and the digital realm, right?
+Born in Spain and diving deep into the tech world as a computer scientist. I'm also kicking off my physics degree online because why not? Life's too short not to explore the mysteries of the universe and the digital realm, right?
 
 ### What's cooking in my tech kitchen?
 
