@@ -12,8 +12,4 @@ Born in Spain and diving deep into the tech world as a computer scientist. I'm a
 
 Wanna see more? Just hop over to my repos!
 
----
-
-"Riding the waves of code and curiosity. 🌊"
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josericardopenase&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
