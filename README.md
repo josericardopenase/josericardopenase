@@ -12,6 +12,6 @@ Born in Spain and diving deep into the tech world as a computer scientist. I'm a
 
 Wanna see more? Just hop over to my repos!
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=josericardopenase&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=josericardopenase&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josericardopenase&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=josericardopenase&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=josericardopenase)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josericardopenase&layout=compact)
